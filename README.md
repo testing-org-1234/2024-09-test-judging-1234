@@ -32,4 +32,12 @@ Example:
 
 # Audit scope
 
+
+[sherlock-v2-core @ 6d0ad29b504db57304ab74f942fe194e646dddb8](https://github.com/sherlock-protocol/sherlock-v2-core/tree/6d0ad29b504db57304ab74f942fe194e646dddb8)
+- [sherlock-v2-core/contracts/SherBuy.sol](sherlock-v2-core/contracts/SherBuy.sol)
+- [sherlock-v2-core/contracts/SherClaim.sol](sherlock-v2-core/contracts/SherClaim.sol)
+- [sherlock-v2-core/contracts/Sherlock.sol](sherlock-v2-core/contracts/Sherlock.sol)
+
+
+
 # About {project}
